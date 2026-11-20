@@ -1,0 +1,17 @@
+{
+  "version": "1.2.1",
+  "versionCode": 4,
+  "releaseDate": "2026-11-20",
+  "platform": "android",
+  "apkUrl": "https://github.com/atharvgit2005/miss-minutes-releases/releases/latest/download/MissMinutes.apk",
+  "directDownloadUrl": "https://github.com/atharvgit2005/miss-minutes-releases/releases/download/v1.2.1/MissMinutes.apk",
+  "fallbackCdnUrl": "https://raw.githubusercontent.com/atharvgit2005/miss-minutes-releases/main/releases/mobile/MissMinutes.apk",
+  "fileSize": 64539147,
+  "changelog": [
+    "Sacred Timeline Universal OTA updates active across all networks (cellular, foreign Wi-Fi, LAN)",
+    "Purged all mock metadata (real dynamic dates, Operator greeting, live event counters)",
+    "Connected to Free LLM API with direct on-device mobile AI fallback",
+    "Dynamic 7-day calendar week selector with live optimization calculations",
+    "Dedicated high-speed public release CDN pipeline"
+  ]
+}

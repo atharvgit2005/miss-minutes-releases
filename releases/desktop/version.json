@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "releaseDate": "2026-11-20",
+  "platform": "windows",
+  "downloadUrl": "https://github.com/atharvgit2005/miss-minutes-releases/releases/latest/download/MissMinutes-Setup.exe",
+  "fileSize": 0,
+  "changelog": [
+    "Initial desktop companion overlay release",
+    "Voice recognition and time management integration",
+    "Universal OTA update support via public release pipeline"
+  ]
+}
