@@ -1,14 +1,13 @@
 {
-  "version": "1.1.0",
+  "version": "1.1.1",
   "releaseDate": "2026-11-27",
   "platform": "windows",
   "downloadUrl": "https://github.com/atharvgit2005/miss-minutes-releases/releases/latest/download/MissMinutes-Setup.exe",
-  "fileSize": 1048211243,
+  "fileSize": 1048212455,
   "changelog": [
-    "Native Desktop OAuth PKCE for Google (Gmail & Google Calendar), GitHub & Slack token connectors, and Notion/Linear Streamable-HTTP MCP support",
-    "Strict plain-text formatting across AI chat responses, connector tool outputs, approval cards, and Time Stream events",
-    "Wada Sanzo Classic Color Playbook palette (Washi Sand, Prussian Deep Navy, Vermilion Persimmon, Cerulean Teal, Matcha Pine, Crimson Lacquer)",
-    "Upgraded all Desktop icons to Lucide and genuine official brand SVGs across System Link, Connectors, and Quick Bar",
-    "Removed legacy clutter metadata and refreshed Quick Bar & Companion UI"
+    "Replaced all remaining blue/teal sidebar and badge styles with black (#111314) & swapped Time Stream icon to CalendarDays",
+    "Mobile bridge /api/mobile/integrations/dispatch now awaits execution results and returns plain-text output & setup status",
+    "Added /api/mobile/integrations/demo endpoint for 1-tap Demo Preview testing from mobile",
+    "Includes Native OAuth PKCE, GitHub/Slack connectors, Notion/Linear MCP, Wada Sanzo theme, and strict plain-text output"
   ]
 }
