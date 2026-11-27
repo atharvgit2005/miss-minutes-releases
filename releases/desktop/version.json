@@ -1,13 +1,13 @@
 {
-  "version": "1.1.1",
-  "releaseDate": "2026-11-27",
+  "version": "1.2.0",
+  "releaseDate": "2026-11-28",
   "platform": "windows",
   "downloadUrl": "https://github.com/atharvgit2005/miss-minutes-releases/releases/latest/download/MissMinutes-Setup.exe",
-  "fileSize": 1048212455,
+  "fileSize": 1048212798,
   "changelog": [
-    "Replaced all remaining blue/teal sidebar and badge styles with black (#111314) & swapped Time Stream icon to CalendarDays",
-    "Mobile bridge /api/mobile/integrations/dispatch now awaits execution results and returns plain-text output & setup status",
-    "Added /api/mobile/integrations/demo endpoint for 1-tap Demo Preview testing from mobile",
-    "Includes Native OAuth PKCE, GitHub/Slack connectors, Notion/Linear MCP, Wada Sanzo theme, and strict plain-text output"
+    "Removed local LAN port 4001 server dependency in favor of centralized Firebase Cloud Brain sync",
+    "Canonical multi-provider identity resolution maps Google, Phone OTP, and Email logins to one unified account across Desktop and Phone",
+    "Real-time two-way Firestore synchronization of Integrations config, Vault memories, Time Stream, Chat history, and Companion modes",
+    "System Link Connected Devices panel upgraded to Cloud Brain & Devices with live Cloud Account Sync status"
   ]
 }

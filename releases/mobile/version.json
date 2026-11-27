@@ -1,19 +1,18 @@
 {
-  "version": "1.5.1",
-  "versionCode": 19,
-  "releaseDate": "2026-11-27",
+  "version": "1.6.0",
+  "versionCode": 20,
+  "releaseDate": "2026-11-28",
   "platform": "android",
   "apkUrl": "https://github.com/atharvgit2005/miss-minutes-releases/releases/latest/download/MissMinutes.apk",
-  "directDownloadUrl": "https://github.com/atharvgit2005/miss-minutes-releases/releases/download/v1.5.1/MissMinutes.apk",
+  "directDownloadUrl": "https://github.com/atharvgit2005/miss-minutes-releases/releases/download/v1.6.0/MissMinutes.apk",
   "websiteApkUrl": "https://github.com/atharvgit2005/miss-minutes-releases/releases/latest/download/MissMinutes.apk",
   "fallbackCdnUrl": "https://raw.githubusercontent.com/atharvgit2005/miss-minutes-releases/main/releases/mobile/MissMinutes.apk",
-  "localDownloadUrl": "http://192.168.1.6:4001/api/mobile/download-apk",
-  "fileSize": 65560539,
+  "fileSize": 65565031,
   "changelog": [
-    "Fixed mobile integrations network error by permitting LAN cleartext HTTP in AndroidManifest & network_security_config",
-    "Integration actions now await Desktop execution results and surface real output, setup prompts, and Demo Preview toggle",
-    "Replaced all remaining blue/teal accents and cards with crisp black (#111314) and high-contrast light sand text",
-    "Swapped Schedule bottom bar icon to CalendarDays and refined Schedule copy & layout",
-    "Fixed mobile header alignment, Vault/Chat filter wrapping, FAB positioning, and integration tile wrapping across all 5 tabs"
+    "Centralized Firebase Cloud Brain syncs Google, Phone OTP, and Email logins to one account across PC & Phone without port 4001 or same-Wi-Fi dependency",
+    "Direct Cloud HTTPS integration execution for Gmail, Calendar, GitHub, Slack, Notion/Linear MCP, n8n, and Demo Preview",
+    "Chat is now the default launch tab and audio playback bars have been removed from chat bubbles",
+    "Moved Logo, Account card, and Cloud Apps into the left slide-out hamburger drawer and removed Connect PC from the main screen",
+    "Removed the online schedule status banner in Chat and made active bottom tab bubbles uniformly circular across all 4 tabs"
   ]
 }
