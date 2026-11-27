@@ -8,7 +8,7 @@
   "websiteApkUrl": "https://github.com/atharvgit2005/miss-minutes-releases/releases/latest/download/MissMinutes.apk",
   "fallbackCdnUrl": "https://raw.githubusercontent.com/atharvgit2005/miss-minutes-releases/main/releases/mobile/MissMinutes.apk",
   "localDownloadUrl": "http://192.168.1.6:4001/api/mobile/download-apk",
-  "fileSize": 65992747,
+  "fileSize": 65558551,
   "changelog": [
     "Fixed phone main screen Top App Bar logo with the smooth high-resolution circular Miss Minutes clockface emblem",
     "Applied Wada Sanzo Classic Color Playbook theme across Home, Schedule, Vault, Chat, and Apps & Link",
