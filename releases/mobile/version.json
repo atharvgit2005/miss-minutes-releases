@@ -1,20 +1,19 @@
 {
-    "version":  "1.4.3",
-    "versionCode":  17,
-    "releaseDate":  "2026-11-26",
-    "platform":  "android",
-    "apkUrl":  "https://github.com/atharvgit2005/miss-minutes-releases/releases/latest/download/MissMinutes.apk",
-    "directDownloadUrl":  "https://github.com/atharvgit2005/miss-minutes-releases/releases/download/v1.4.3/MissMinutes.apk",
-    "websiteApkUrl":  "https://github.com/atharvgit2005/miss-minutes-releases/releases/latest/download/MissMinutes.apk",
-    "fallbackCdnUrl":  "https://raw.githubusercontent.com/atharvgit2005/miss-minutes-releases/main/releases/mobile/MissMinutes.apk",
-    "localDownloadUrl":  "http://192.168.1.6:4001/api/mobile/download-apk",
-    "fileSize":  65649147,
-    "changelog":  [
-                      "Milestone 6 UI overhaul: modern-web-guidance CSS/dialog/form fixes on desktop, light-theme mobile auth and balanced Quick Action Deck, live telemetry",
-                      "Sacred Timeline Universal OTA updates active across all networks (cellular, foreign Wi-Fi, LAN)",
-                      "Dedicated public release CDN pipeline via miss-minutes-releases",
-                      "Purged all mock metadata (real dynamic dates, Operator greeting, live event counters)",
-                      "Connected to Free LLM API with direct on-device mobile AI fallback",
-                      "Dynamic 7-day calendar week selector with live optimization calculations"
-                  ]
+  "version": "1.5.0",
+  "versionCode": 18,
+  "releaseDate": "2026-11-27",
+  "platform": "android",
+  "apkUrl": "https://github.com/atharvgit2005/miss-minutes-releases/releases/latest/download/MissMinutes.apk",
+  "directDownloadUrl": "https://github.com/atharvgit2005/miss-minutes-releases/releases/download/v1.5.0/MissMinutes.apk",
+  "websiteApkUrl": "https://github.com/atharvgit2005/miss-minutes-releases/releases/latest/download/MissMinutes.apk",
+  "fallbackCdnUrl": "https://raw.githubusercontent.com/atharvgit2005/miss-minutes-releases/main/releases/mobile/MissMinutes.apk",
+  "localDownloadUrl": "http://192.168.1.6:4001/api/mobile/download-apk",
+  "fileSize": 65992747,
+  "changelog": [
+    "Fixed phone main screen Top App Bar logo with the smooth high-resolution circular Miss Minutes clockface emblem",
+    "Applied Wada Sanzo Classic Color Playbook theme across Home, Schedule, Vault, Chat, and Apps & Link",
+    "Replaced mobile icon pack with crisp Lucide icons and genuine official brand SVGs (Google, Gmail, Google Calendar, Slack, Notion, Linear, GitHub, n8n)",
+    "Strict plain-text formatting across AI responses, approval modals, and integration tool outputs (zero raw JSON)",
+    "Decluttered Home, Vault, Chat, and Apps & Link mobile UI navigation"
+  ]
 }

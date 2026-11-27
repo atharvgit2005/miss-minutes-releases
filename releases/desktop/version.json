@@ -1,12 +1,14 @@
 {
-  "version": "1.0.0",
-  "releaseDate": "2026-11-20",
+  "version": "1.1.0",
+  "releaseDate": "2026-11-27",
   "platform": "windows",
   "downloadUrl": "https://github.com/atharvgit2005/miss-minutes-releases/releases/latest/download/MissMinutes-Setup.exe",
-  "fileSize": 0,
+  "fileSize": 1048211243,
   "changelog": [
-    "Initial desktop companion overlay release",
-    "Voice recognition and time management integration",
-    "Universal OTA update support via public release pipeline"
+    "Native Desktop OAuth PKCE for Google (Gmail & Google Calendar), GitHub & Slack token connectors, and Notion/Linear Streamable-HTTP MCP support",
+    "Strict plain-text formatting across AI chat responses, connector tool outputs, approval cards, and Time Stream events",
+    "Wada Sanzo Classic Color Playbook palette (Washi Sand, Prussian Deep Navy, Vermilion Persimmon, Cerulean Teal, Matcha Pine, Crimson Lacquer)",
+    "Upgraded all Desktop icons to Lucide and genuine official brand SVGs across System Link, Connectors, and Quick Bar",
+    "Removed legacy clutter metadata and refreshed Quick Bar & Companion UI"
   ]
 }
